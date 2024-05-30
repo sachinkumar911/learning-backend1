@@ -1,0 +1,14 @@
+* {
+  
+   justify-items: center;
+  justify-content: center
+
+}
+
+
+.ff {
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+
+}
